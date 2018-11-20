@@ -1,5 +1,7 @@
 # String#scrub
 
+Note: The difference between this tree and master is that bundler complains on the original ruby version condition (Illformed requirement ["< 2.3.0, >= 1.9.3"]) so I removed it.
+
 [![Gem Version](https://badge.fury.io/rb/string-scrub.png)](http://badge.fury.io/rb/string-scrub)
 [![Build Status](https://secure.travis-ci.org/hsbt/string-scrub.png)](http://travis-ci.org/hsbt/string-scrub)
 
